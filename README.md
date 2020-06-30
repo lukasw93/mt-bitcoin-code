@@ -1,4 +1,4 @@
-# Aggregation Code thesis
+# Aggregation Code for thesis
 ## A quantitative analysis of the Bitcoin blockchain
 
 This repository contains code that was used to aggregate Bitcoin related data from different data sources.
