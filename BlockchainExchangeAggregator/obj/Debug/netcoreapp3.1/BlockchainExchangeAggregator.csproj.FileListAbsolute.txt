@@ -1,0 +1,10 @@
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.exe
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.deps.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.runtimeconfig.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.runtimeconfig.dev.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\bin\Debug\netcoreapp3.1\BlockchainExchangeAggregator.pdb
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\obj\Debug\netcoreapp3.1\BlockchainExchangeAggregator.AssemblyInfoInputs.cache
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\obj\Debug\netcoreapp3.1\BlockchainExchangeAggregator.AssemblyInfo.cs
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\obj\Debug\netcoreapp3.1\BlockchainExchangeAggregator.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\BlockchainExchangeAggregator\obj\Debug\netcoreapp3.1\BlockchainExchangeAggregator.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainDataAggregator", "BlockchainDataAggregator\BlockchainDataAggregator.csproj", "{963EB35B-C4A3-473C-80B9-835BFCB6FB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainExchangeAggregator", "BlockchainExchangeAggregator\BlockchainExchangeAggregator.csproj", "{214335A0-39FB-4467-A272-1C1947AE587E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeDateAggregator", "ExchangeDateAggregator\ExchangeDateAggregator.csproj", "{F7FDD674-AE3B-4C84-8920-91BF06E820F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTimestampWithDataFile", "MergeTimestampWithDataFile\MergeTimestampWithDataFile.csproj", "{F9905374-43B6-400C-ABD3-7E5B758EF811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963EB35B-C4A3-473C-80B9-835BFCB6FB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963EB35B-C4A3-473C-80B9-835BFCB6FB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963EB35B-C4A3-473C-80B9-835BFCB6FB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963EB35B-C4A3-473C-80B9-835BFCB6FB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214335A0-39FB-4467-A272-1C1947AE587E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214335A0-39FB-4467-A272-1C1947AE587E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214335A0-39FB-4467-A272-1C1947AE587E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214335A0-39FB-4467-A272-1C1947AE587E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FDD674-AE3B-4C84-8920-91BF06E820F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FDD674-AE3B-4C84-8920-91BF06E820F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FDD674-AE3B-4C84-8920-91BF06E820F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FDD674-AE3B-4C84-8920-91BF06E820F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9905374-43B6-400C-ABD3-7E5B758EF811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9905374-43B6-400C-ABD3-7E5B758EF811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9905374-43B6-400C-ABD3-7E5B758EF811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9905374-43B6-400C-ABD3-7E5B758EF811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE45F199-337F-41D8-999D-DB6CCC6D3975}
+	EndGlobalSection
+EndGlobal

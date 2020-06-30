@@ -1,0 +1,11 @@
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.exe
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.deps.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.runtimeconfig.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.runtimeconfig.dev.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\bin\Debug\netcoreapp3.1\MergeTimestampWithDataFile.pdb
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\obj\Debug\netcoreapp3.1\MergeTimestampWithDataFile.csprojAssemblyReference.cache
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\obj\Debug\netcoreapp3.1\MergeTimestampWithDataFile.AssemblyInfoInputs.cache
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\obj\Debug\netcoreapp3.1\MergeTimestampWithDataFile.AssemblyInfo.cs
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\obj\Debug\netcoreapp3.1\MergeTimestampWithDataFile.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\MergeTimestampWithDataFile\obj\Debug\netcoreapp3.1\MergeTimestampWithDataFile.pdb

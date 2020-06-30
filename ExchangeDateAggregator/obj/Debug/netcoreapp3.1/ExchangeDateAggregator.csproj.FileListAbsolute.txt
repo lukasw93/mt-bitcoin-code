@@ -1,0 +1,11 @@
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.exe
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.deps.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.runtimeconfig.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.runtimeconfig.dev.json
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\bin\Debug\netcoreapp3.1\ExchangeDateAggregator.pdb
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\obj\Debug\netcoreapp3.1\ExchangeDateAggregator.csprojAssemblyReference.cache
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\obj\Debug\netcoreapp3.1\ExchangeDateAggregator.AssemblyInfoInputs.cache
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\obj\Debug\netcoreapp3.1\ExchangeDateAggregator.AssemblyInfo.cs
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\obj\Debug\netcoreapp3.1\ExchangeDateAggregator.dll
+C:\Users\weichslu\source\repos\DataAggregationHelpers\ExchangeDateAggregator\obj\Debug\netcoreapp3.1\ExchangeDateAggregator.pdb
